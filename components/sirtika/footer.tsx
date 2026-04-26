@@ -9,15 +9,17 @@ export function Footer() {
             <span className="text-xs text-muted-foreground">Growth Architecture Framework</span>
           </div>
           <div className="flex items-center gap-6">
-            {["Philosophy", "Framework", "AI Platform", "About"].map((link) => (
+            {["Philosophy", "Framework", "About"].map((link) => (
               <a
                 key={link}
-                href={`#${link.toLowerCase().replace(" ", "-")}`}
+                href={`/#${link.toLowerCase().replace(" ", "-")}`}
                 className="text-xs tracking-widest uppercase text-muted-foreground hover:text-primary transition-colors"
               >
                 {link}
               </a>
             ))}
+            <a key={"Ai Platform"}
+              href="/ai-platform" className="text-xs tracking-widest uppercase text-muted-foreground hover:text-primary transition-colors">AI Platform</a>
           </div>
         </div>
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-border">
@@ -26,10 +28,10 @@ export function Footer() {
           </div>
           <div className="flex items-center gap-6">
             <a
-              href="mailto:Naveen16@gmail.com"
+              href="mailto:n.suri@sirtika.com"
               className="text-xs text-muted-foreground hover:text-primary transition-colors"
             >
-              Naveen16@gmail.com
+              n.suri@sirtika.com
             </a>
             <a
               href="https://www.linkedin.com/in/naveenn-suri-2455628"

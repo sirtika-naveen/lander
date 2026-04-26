@@ -59,7 +59,7 @@ export function CTA() {
         </div>
 
         <a
-          href="mailto:Naveen16@gmail.com"
+          href="mailto:n.suri@sirtika.com"
           className="inline-flex items-center gap-3 px-10 py-4 text-sm tracking-[0.2em] uppercase font-bold bg-primary text-primary-foreground hover:bg-primary/90 transition-colors duration-200 mb-10"
         >
           Book Strategy Conversation
@@ -71,14 +71,14 @@ export function CTA() {
         {/* Contact details */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 pt-8 border-t border-border">
           <a
-            href="mailto:Naveen16@gmail.com"
+            href="mailto:n.suri@sirtika.com"
             className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"
           >
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden>
               <rect x="1" y="3" width="12" height="8" rx="1" stroke="currentColor" strokeWidth="1.2" />
               <path d="M1 4L7 8.5L13 4" stroke="currentColor" strokeWidth="1.2" />
             </svg>
-            Naveen16@gmail.com
+            n.suri@sirtika.com
           </a>
           <div className="hidden sm:block h-4 w-px bg-border" />
           <a

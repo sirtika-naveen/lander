@@ -1,4 +1,5 @@
 const outcomes = [
+  { label: "Sales operation model for sustainable growth" },
   { label: "Predictable enterprise pipeline" },
   { label: "Improved win ratios" },
   { label: "Scalable sales capability" },

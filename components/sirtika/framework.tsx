@@ -20,7 +20,7 @@ const pillars = [
   {
     letter: 'I',
     number: '02',
-    title: 'Traction & Kinetic Acceleration',
+    title: 'Traction',
     outcome: 'Market Velocity and Qualified Pipeline',
     focus: [
       'Industry-led GTM model — two to three verticals prioritised for depth of credibility',
@@ -57,7 +57,7 @@ const pillars = [
     ],
   },
   {
-    letter: 'I',
+    letter: 'K',
     number: '05',
     title: 'Sustainable Output & Scale',
     outcome: 'Compounding, Founder-Independent Revenue Growth',

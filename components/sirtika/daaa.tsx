@@ -77,6 +77,10 @@ export function DAAA() {
         <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8" style={{ maxWidth: '900px' }}>
           The D-A-A-A Journey
         </h2>
+        <h3 className="text-lg md:text-2xl lg:text-xl font-bold text-white mb-8">
+          AI system will be launched by Q3 2026 till than we will use another method to diagnose and
+          build a report
+        </h3>
 
         {/* Stage flow bar */}
         <div className="text-lg font-bold text-white letter-spacing-wide mb-16 flex flex-wrap gap-4">

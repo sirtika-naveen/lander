@@ -7,19 +7,19 @@ export function Nav() {
   const [open, setOpen] = useState(false);
 
   const navLinks = [
-    { label: 'Problem', href: '#problem' },
-    { label: 'Philosophy', href: '#philosophy' },
-    { label: 'Framework', href: '#framework' },
-    { label: 'The Program', href: '#program' },
+    { label: 'Problem', href: '/#problem' },
+    { label: 'Philosophy', href: '/#philosophy' },
+    { label: 'Framework', href: '/#framework' },
+    { label: 'The Program', href: '/#program' },
     { label: 'AI Platform', href: '/ai-platform' },
-    { label: 'About', href: '#about' },
+    { label: 'About', href: '/#about' },
   ];
 
   return (
     <header className="sticky top-0 z-50 w-full" style={{ backgroundColor: '#1A2744', borderBottom: '1px solid #2D3A5F' }}>
       <nav className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
-        <a href="#" className="font-bold text-xl tracking-widest text-white">
+        <a href="/" className="font-bold text-xl tracking-widest text-white">
           SIRTIKA™
         </a>
 
