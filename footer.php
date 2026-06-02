@@ -9,8 +9,8 @@
       <div>
         <p class="gold text-lg uppercase tracking-widest font-semibold mb-5">SIRTIKA</p>
         <ul class="space-y-3 text-lg">
-          <li><a href="/sirtika-new/#framework" class="text-gray-200 hover:text-gold-300 transition-colors">Framework</a></li>
-          <li><a href="/sirtika-new/#programme" class="text-gray-200 hover:text-gold-300 transition-colors">D-A-A-A Programme</a></li>
+          <li><a href="/#framework" class="text-gray-200 hover:text-gold-300 transition-colors">Framework</a></li>
+          <li><a href="/#programme" class="text-gray-200 hover:text-gold-300 transition-colors">D-A-A-A Programme</a></li>
           <li><a href="ai-platform.php" class="text-gray-200 hover:text-gold-300 transition-colors">AI Platform</a></li>
           <li><a href="about.php" class="text-gray-200 hover:text-gold-300 transition-colors">About</a></li>
           <li><a href="contact.php" class="text-gray-200 hover:text-gold-300 transition-colors">Contact</a></li>
@@ -20,10 +20,10 @@
       <div>
         <p class="gold text-lg uppercase tracking-widest font-semibold mb-5">Engage</p>
         <ul class="space-y-3 text-lg">
-          <li><a href="/sirtika-new/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">CRM Diagnosys</a></li>
-          <li><a href="/sirtika-new/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">SIRTIKA Diagnosys</a></li>
-          <li><a href="/sirtika-new/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">Premium Transformation</a></li>
-          <li><a href="/sirtika-new/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">Fractional CGO</a></li>
+          <li><a href="/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">CRM Diagnosys</a></li>
+          <li><a href="/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">SIRTIKA Diagnosys</a></li>
+          <li><a href="/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">Premium Transformation</a></li>
+          <li><a href="/#offerings" class="text-gray-200 hover:text-gold-300 transition-colors">Fractional CGO</a></li>
         </ul>
       </div>
 
