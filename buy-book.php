@@ -221,8 +221,16 @@
 
         <div class="buybox fade d2 gb">
           <h2>Get the book</h2>
-          <p class="lede">Available worldwide on Amazon.</p>
+          <p class="lede">Hardcopy Now Available in India</p>
+          <p class="lede">You can now order the hardcopy of my book, The Revenue Operating System</p>
+          <a class="btn" href="https://notionpress.com/in/read/the-revenue-operating-system" target="_blank" rel="noopener">
+            <span class="flag">🇮🇳</span>
+            <span class="txt"><small>In · India</small><span>Buy Hardcopy on Notion Press</span></span>
+            <span class="arrow">→</span>
+          </a>
           <div class="gold-divider"></div>
+          <p class="lede">Available worldwide on Amazon.</p>
+          
 
           <a class="btn" href="https://a.co/d/0aTZvWrd" target="_blank" rel="noopener">
             <span class="flag">🇺🇸</span>
