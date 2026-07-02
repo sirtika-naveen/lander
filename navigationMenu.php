@@ -11,6 +11,7 @@
       <li><a href="ai-platform.php" class="hover:text-gold-300 transition-colors">AI Platform</a></li>
       <li><a href="about.php" class="hover:text-gold-300 transition-colors">About</a></li>
       <li><a href="buy-book.php" class="hover:text-gold-300 transition-colors">Get The Book</a></li>
+      <li><a href="https://demo.sirtika.com" class="hover:text-gold-300 transition-colors">Demo</a></li>
     </ul>
     <div class="hidden lg:flex items-center gap-3">
       <a href="https://calendly.com/naveenn-sirtika" target="_blank" class="btn-teal px-5 py-2.5 rounded-full text-sm">Book a Diagnostic Call</a>
@@ -24,6 +25,7 @@
     <a href="ai-platform.php" onclick="toggleMob()" class="block text-nav hover:text-gold-300 py-2 border-b border-white/5 text-sm">AI Platform</a>
     <a href="about.php" onclick="toggleMob()" class="block text-nav hover:text-gold-300 py-2 border-b border-white/5 text-sm">About</a>
     <a href="buy-book.php" onclick="toggleMob()" class="block text-nav hover:text-gold-300 py-2 border-b border-white/5 text-sm">Get The Book</a>
+    <a href="https://demo.sirtika.com" onclick="toggleMob()" class="block text-nav hover:text-gold-300 py-2 border-b border-white/5 text-sm">Demo</a>
     <a href="https://calendly.com/naveenn-sirtika" target="_blank" onclick="toggleMob()" class="btn-teal block px-5 py-3 rounded-full text-center text-sm mt-4">Book a Diagnostic Call</a>
   </div>
 </nav>
